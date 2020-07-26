@@ -1,0 +1,20 @@
+total 72
+-rw-r--r-- 1 dyrroth dyrroth 2862 Feb 11 12:27 assignment_4_ans.sh
+-rw-r--r-- 1 dyrroth dyrroth   18 Feb  9 23:14 s11.txt
+-rw-r--r-- 1 dyrroth dyrroth  184 Feb 11 11:44 s13.txt
+-rwxr-xr-x 1 dyrroth dyrroth  330 Feb  9 23:27 s14.sh
+-rwxr-xr-x 1 dyrroth dyrroth  324 Feb  9 23:29 s15.sh
+-rwxr-xr-x 1 dyrroth dyrroth  377 Feb  9 23:30 s16.sh
+-rwxr-xr-x 1 dyrroth dyrroth  221 Feb  9 23:31 s17.sh
+-rw-r--r-- 1 dyrroth dyrroth  160 Feb  9 23:33 s19.txt
+-rwxr-xr-x 1 dyrroth dyrroth   63 Feb 11 13:42 s1a.sh
+-rw-r--r-- 1 dyrroth dyrroth  333 Feb 11 12:24 s1a.txt
+-rw-r--r-- 1 dyrroth dyrroth   34 Feb 11 13:43 s1b.txt
+-rw-r--r-- 1 dyrroth dyrroth    0 Feb 11 13:43 s1c.txt
+-rw-r--r-- 1 dyrroth dyrroth   80 Feb  9 23:38 s20.txt
+-rw-r--r-- 1 dyrroth dyrroth  192 Feb 11 11:48 s21.txt
+-rw-r--r-- 1 dyrroth dyrroth  224 Feb  9 22:32 s2.txt
+-rw-r--r-- 1 dyrroth dyrroth   56 Feb  9 22:37 s3.txt
+-rw-r--r-- 1 dyrroth dyrroth  104 Feb  9 22:47 s5.txt
+-rw-r--r-- 1 dyrroth dyrroth   64 Feb  9 23:06 s8.txt
+-rw-r--r-- 1 dyrroth dyrroth  100 Feb  9 22:52 student_marks.txt

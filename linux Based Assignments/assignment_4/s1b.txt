@@ -1,0 +1,5 @@
+cat 
+date 
+man cat
+ls -l
+man date

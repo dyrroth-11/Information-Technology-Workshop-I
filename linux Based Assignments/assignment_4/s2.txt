@@ -1,0 +1,16 @@
+1 gum is sum 
+2 sum is drum 
+3 drum is gum
+4 gum is sum 
+5 sum is drum 
+6 drum is gum
+7 gum is sum 
+8 sum is drum 
+9 drum is gum
+10 gum is sum 
+11 sum is drum 
+12 drum is gum
+13 apple mango
+applemango
+mangoapple
+mango apple

@@ -1,0 +1,6 @@
+Name ID Marks
+Rohit 10 78 84 77
+Virat 03 56 58 45
+Dhoni 07 38 37
+Sachin 05 87 97 95
+Hardik 06 30 47
